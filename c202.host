@@ -22,4 +22,4 @@
 
 {log_dir,"h202_c100.logs"}.
 
-{capabilities,[]}.
+{capabilities,[{port,60000},{hw,glurk}]}.
